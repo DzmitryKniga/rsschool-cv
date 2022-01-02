@@ -5,7 +5,8 @@
 ***
 ###Contacts
 * Email: d.dmitrikniga@gmail.com
-* Phone Number: mobile +375295438548
+* Phone Number: mobile number +375295438548
+* Discord name: Dzmitry Kniga#2375
 ***
 ###About me
 Hey there! My name is Dmitry and I'm a beginner in Front-end development. I like writing codes, experimenting with it and seeing my results. I'm interested in programming because this field provides countless possibilities for development, you can  improve your skills no matter you are, independently of your location. And the most important thing is if you work hard, you can achieve a lot in development.
@@ -29,10 +30,11 @@ I'm a hard-working person, I have strong communication, quick learning skills an
 ```
 ***
 ### Experience in ATI
-In progress
+* My CV  
+* Others in progress
 ***
 ### Education
-Military Academy of the Republic of Belarus: 2006-2011
+Military Academy of the Republic of Belarus: aviation department 2006-2011
 
 ***
 ### English level
