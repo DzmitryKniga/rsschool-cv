@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Condensed&display=swap');
 
+
+
+
+
+
 body {
     background-color: rgb(255, 251, 251);
     color: rgb(9, 10, 9);
@@ -8,7 +13,7 @@ body {
     font-family:'Roboto', sans-serif;
    
 }
-summary{
+summary {
     font-size: 22px;
 }
 .foto {
@@ -19,55 +24,97 @@ summary{
 .stail{
     max-width: 1000px;
     margin: auto;
-
 }
+
+
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+  }
+
+nav li {
+    list-style-type: none;
+    display: inline block;
+  }
+
+nav {
+    padding: 15px;
+  }
+
+hr {
+    color: rgb(245, 31, 31);
+}
+
+
+
 .info1 {
-    background-color: #389b9b7e;
+    background-color:  rgba(89, 126, 230, 0.4);
     padding: 10px;
     margin: 20px;
     border-radius: 28px;
 }
 .info2 {
-    background-color: #c4c10f83;
+    background-color: rgba(89, 126, 230, 0.4);
     padding: 10px;
     margin: 20px;
     border-radius: 28px
 }
 .info3 {
-    background-color: #c4c10f83;
+    background-color: rgba(89, 126, 230, 0.5);
     padding: 10px;
     margin: 20px;
     border-radius: 28px
 }
 .info4 {
-    background-color: #c4c10f83;
+    background-color: rgba(89, 126, 230, 0.6);
     padding: 10px;
     margin: 20px;
     border-radius: 28px
 }
 
 .info5 {
-    background-color: #c4c10f83;
+    background-color: rgba(89, 126, 230, 0.7);
     padding: 10px;
     margin: 20px;
     border-radius: 28px
 }
 .info6 {
-    background-color: rgba(57, 160, 17, 0.473);
+    background-color: rgba(89, 126, 230, 0.8);
     padding: 10px;
     margin: 20px;
     border-radius: 28px
 }
 .info7 {
-    background-color: rgba(243, 6, 152, 0.692);
+    background-color: rgba(89, 126, 230, 0.9);
     padding: 10px;
     margin: 20px;
-    border-radius: 10px
+    border-radius: 28px
 }
 
-a:hover{
-    text-decoration: rgb(233, 14, 14);
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;     
+  }
+
+h2 {
+    display: inline-block;
+    margin: 0;
+    font-size: 20px; 
+}  
+
+@media screen and (max-width: 1024px) {
+    .stail {
+       width: 100%;
+    }
+
 }
-.lin1 li{
-    border-bottom: 1px  solid blue;
+
+@media screen and (max-width: 720px) {
+    nav ul {
+        flex-direction: column;
+    }
+    
 }
