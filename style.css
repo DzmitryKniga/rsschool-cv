@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Condensed&display=swap');
+
+body {
+    background-color: rgb(255, 251, 251);
+    color: rgb(9, 10, 9);
+    font-size: 18px;
+    font-weight: 500;
+    font-family:'Roboto', sans-serif;
+   
+}
+summary{
+    font-size: 22px;
+}
+.foto {
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 5px 5px 8px rgba(1, 1, 1, 1);
+}
+.stail{
+    max-width: 1000px;
+    margin: auto;
+
+}
+.info1 {
+    background-color: #f3cb06;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 28px;
+}
+.info2 {
+    background-color: rgba(59, 253, 0, 0.938);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 28px
+}
+.info3 {
+    background-color: rgba(4, 248, 37, 0.692);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 28px
+}
+.info4 {
+    background-color: rgba(6, 245, 193, 0.692);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 28px
+}
+
+.info5 {
+    background-color: rgba(9, 154, 238, 0.952);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 28px
+}
+.info6 {
+    background-color: rgba(50, 160, 17, 0.692);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 28px
+}
+.info7 {
+    background-color: rgba(243, 6, 152, 0.692);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px
+}
+
+a:hover{
+    text-decoration: rgb(233, 14, 14);
+}
+.lin1 li{
+    border-bottom: 1px  solid blue;
+}
