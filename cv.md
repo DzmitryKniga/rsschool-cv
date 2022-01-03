@@ -29,12 +29,12 @@ I'm a hard-working person, I have strong communication, quick learning skills an
 </style>
 ```
 ***
-### Experience in ATI
+### Experience in IT
 * My CV  
 * Others in progress
 ***
 ### Education
-Military Academy of the Republic of Belarus: aviation department 2006-2011
+Military Academy of the Republic of Belarus: aviation faculty 2006-2011
 
 ***
 ### English level
